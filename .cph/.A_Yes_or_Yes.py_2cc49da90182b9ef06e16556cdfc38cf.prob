@@ -1,1 +1,0 @@
-{"name":"A. Yes or Yes","url":"https://codeforces.com/contest/2178/problem/A","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Good Bye 2025","tests":[{"id":1786199672294,"input":"7\nYY\nNN\nNNY\nYYYNY\nNNNNN\nYYYYYY\nYNNNNN\n","output":"NO\nYES\nYES\nNO\nYES\nNO\nYES\n"}],"srcPath":"c:\\Users\\zakir\\OneDrive\\Desktop\\CodeForces\\A_Yes_or_Yes.py"}
