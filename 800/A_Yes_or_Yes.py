@@ -3,6 +3,7 @@ def logical_or(a, b):
         return 'N'
     else:
         return 'Y'
+        
 for _ in range(int(input())):
     s = input().strip()
     stack = []
